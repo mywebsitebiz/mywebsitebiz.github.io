@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 26 Nov 2023 01:28:58 at https://toms-builders-143518920.hubspotpagebuilder.eu/ALLOY-WHEEL- REPAIR +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://toms-builders-143518920.hubspotpagebuilder.eu/ALLOY-WHEEL- REPAIR -O1 "C:\My Web Sites\wheels" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:29:11	Warning: 	Moved Permanently for toms-builders-143518920.hubspotpagebuilder.eu/robots.txt
+01:29:11	Warning: 	Redirected link is identical because of 'URL Hack' option: toms-builders-143518920.hubspotpagebuilder.eu/robots.txt and https://toms-builders-143518920.hubspotpagebuilder.eu/robots.txt
+01:29:11	Warning: 	Warning moved treated for toms-builders-143518920.hubspotpagebuilder.eu/robots.txt (real one is https://toms-builders-143518920.hubspotpagebuilder.eu/robots.txt)
+01:29:11	Warning: 	Moved Permanently for toms-builders-143518920.hubspotpagebuilder.eu/
+01:29:11	Warning: 	Redirected link is identical because of 'URL Hack' option: toms-builders-143518920.hubspotpagebuilder.eu/ and https://toms-builders-143518920.hubspotpagebuilder.eu/
+01:29:11	Warning: 	File has moved from toms-builders-143518920.hubspotpagebuilder.eu/ to https://toms-builders-143518920.hubspotpagebuilder.eu/
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 23 links scanned, 20 files written (1143442 bytes overall) [690231 bytes received at 49302 bytes/sec], 692161 bytes transferred using HTTP compression in 9 files, ratio 30%, 1.8 requests per connection
+(No errors, 6 warnings, 0 messages)
